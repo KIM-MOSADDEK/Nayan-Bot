@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "MUN-69",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100057845471745",
+    "100057845471745"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100057845471745",
     ""
   ],
   "OWNER": ["100000959749712"], 
